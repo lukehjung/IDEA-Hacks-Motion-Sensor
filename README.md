@@ -15,3 +15,5 @@ By being able to detect motion changes and to wireless communicate within roughl
  
 Good tutorial for setting up bluetooth and code
 http://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-bluetooth-module-master-slave-commands/
+
+![Image of Team](https://github.com/lukehjung/IDEA-Hacks-Motion-Sensor/blob/master/group%20picture.jpg)
