@@ -18,4 +18,4 @@ http://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-b
 
 ![Image of Team](https://github.com/lukehjung/IDEA-Hacks-Motion-Sensor/blob/master/group%20picture.jpg)
 
-![gif of working](https://i.imgur.com/W92hc0Z.gifv)
+![](https://i.imgur.com/W92hc0Z.gifv)
